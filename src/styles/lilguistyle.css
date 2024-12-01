@@ -1,0 +1,14 @@
+.lil-gui {
+    --background-color: rgba(25, 25, 25, 0.4);
+    --font-family: url('public/fonts/NunitoSans_7pt-Light.ttf');
+    --font-size: 13px;
+    --name-width: 50%;
+}
+
+.lil-gui.root {
+    width: var(--width, 300px)
+}
+
+.lil-gui.autoPlace {
+    right: 0px;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "three": "^0.169.0",
+    "three-custom-shader-material": "^6.0.13"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
