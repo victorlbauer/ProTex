@@ -1,6 +1,6 @@
 # Procedural Textures
 
-## Instalation (Windows)
+## Installation (Windows)
 1. Download Node.js
 >winget install Node.js
 
